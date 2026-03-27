@@ -1,37 +1,34 @@
-<h1 align="left">About Me</h1>
+<h1 align="center">👋 Olá, eu sou o Leandro!</h1>
 
-###
+<p align="center">
+💻 Estudante de Sistemas de Informação <br>
+📒 Estudando SAP <br>
+🐶 Apaixonado por animais <br>
+🎧 Amante de música <br>
+😊 Pronomes: ele/dele
+</p>
 
-<p align="left">• 💻Curso Sistemas de Informação.<br>• 📒 Estudando sistema SAP.<br>• 🐶 Amo animais.<br>• 🎧 Adoro músicas.<br>• 😊 Pronomes: ele/dele</p>
+---
 
-###
+<h2 align="center">🌐 Conecte-se comigo</h2>
 
-<h2 align="left">Social Media</h2>
-
-###
-
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/leandro-paulino-ramos/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  
   <a href="https://www.facebook.com/profile.php?id=100008147893384" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+    <img src="https://img.shields.io/badge/-Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
+  
   <a href="https://www.instagram.com/leandropaulinoramos/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://discord.com/channels/@me" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </div>
 
-###
+---
 
-<h2 align="left">Stats</h2>
-
-###
-
-<h2 align="center">📊 Estatísticas do GitHub</h2>
+<h2 align="center">📊 Estatísticas</h2>
 
 <div align="center">
   <img 
@@ -63,26 +60,17 @@
   />
 </div>
 
-###
+---
 
-<h2 align="left">Techs</h2>
+<h2 align="center">🚀 Tecnologias</h2>
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git" />
 </div>
 
+---
+
+<p align="center">
+✨ Sempre aprendendo algo novo e evoluindo na área de tecnologia!
+</p>
 ###
