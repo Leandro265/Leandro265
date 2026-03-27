@@ -2,45 +2,63 @@
 
 <p align="center">
 💻 Estudante de Sistemas de Informação <br>
-📒 Estudando SAP <br>
-🐶 Amo animais <br>
-🎧 Gosto de música <br>
-😊 ele/dele
+📊 Estudando Sistema SAP <br>
+🐾 Amante dos animais <br>
+🎨 Desenvolvedor Front-End e Designer Digital
 </p>
 
 ---
 
-<h3 align="center">🌐 Conecte-se comigo</h3>
+<h2 align="center">🚀 Sobre mim</h2>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/leandro-paulino-ramos/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  
-  <a href="https://www.instagram.com/leandropaulinoramos/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
-  </a>
-</div>
+<p align="center">
+Sou apaixonado por tecnologia, criatividade e desenvolvimento web. <br>
+Atualmente estou cursando Sistemas de Informação e estudando SAP, <br>
+sempre buscando evoluir como desenvolvedor front-end e designer digital.
+</p>
 
 ---
 
-<h3 align="center">📊 Estatísticas</h3>
+<h2 align="center">🌐 Minhas redes sociais</h2>
 
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Leandro265&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
-    height="150"
-  />
-  
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Leandro265&layout=compact&theme=tokyonight&hide_border=true" 
-    height="150"
-  />
-</div>
+<p align="center">
+<a href="https://www.linkedin.com/feed/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://www.facebook.com/leandro.paulino.ramos" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+</a>
+
+<a href="https://www.instagram.com/leandropaulinoramos/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+<a href="https://discord.com/channels/@me" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+</a>
+</p>
 
 ---
 
-<h3 align="center">🚀 Tecnologias</h3>
+<h2 align="center">📊 Meus commits</h2>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Leandro265&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+<h2 align="center">🛠️ Tecnologias que utilizo</h2>
+
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+</p>
+
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,git" />
