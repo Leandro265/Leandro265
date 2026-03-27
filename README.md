@@ -54,3 +54,6 @@ sempre buscando evoluir como desenvolvedor front-end e designer digital.
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,python,git" />
 </p>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git" />
+</p>
