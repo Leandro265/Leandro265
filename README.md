@@ -1,25 +1,16 @@
-<h1 align="center">👋 Olá, eu sou o Leandro!</h1>
+<h1 align="center">👋 Olá, eu sou o Leandro (Leandro265)</h1>
 
 <p align="center">
-💻 Estudante de Sistemas de Informação <br>
+💻 Cursando Sistemas de Informação <br>
 📊 Estudando Sistema SAP <br>
-🐾 Amante dos animais <br>
-🎨 Desenvolvedor Front-End e Designer Digital
+🐶 Amante dos animais <br>
+🎨 Design digital <br>
+🌐 Desenvolvedor Front-End
 </p>
 
----
+<hr>
 
-<h2 align="center">🚀 Sobre mim</h2>
-
-<p align="center">
-Sou apaixonado por tecnologia, criatividade e desenvolvimento web. <br>
-Atualmente estou cursando Sistemas de Informação e estudando SAP, <br>
-sempre buscando evoluir como desenvolvedor front-end e designer digital.
-</p>
-
----
-
-<h2 align="center">🌐 Minhas redes sociais</h2>
+<h2 align="center">🌐 Minhas Redes Sociais</h2>
 
 <p align="center">
 <a href="https://www.linkedin.com/feed/" target="_blank">
@@ -39,21 +30,24 @@ sempre buscando evoluir como desenvolvedor front-end e designer digital.
 </a>
 </p>
 
----
+<hr>
 
-<h2 align="center">📊 Meus commits</h2>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Leandro265&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
-<h2 align="center">🛠️ Tecnologias que utilizo</h2>
+<h2 align="center">🚀 Tecnologias que utilizo</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50"/>
 </p>
+
+<hr>
+
+<p align="center">
+✨ Sempre aprendendo e evoluindo no mundo da tecnologia!
+</p>
+
 
 <img src="https://skillicons.dev/icons?i=html,css,js,python,git" />
 </p>
