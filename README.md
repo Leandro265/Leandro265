@@ -31,10 +31,36 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leandro265&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Leandro265&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=blueberry&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leandro265&radius=18&theme=nord&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
+<h2 align="center">📊 Estatísticas do GitHub</h2>
+
+<div align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Leandro265&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+    height="160"
+  />
+  
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Leandro265&layout=compact&theme=tokyonight&hide_border=true" 
+    height="160"
+  />
+</div>
+
+<br>
+
+<div align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=Leandro265&theme=tokyonight&hide_border=true" 
+    height="180"
+  />
+</div>
+
+<br>
+
+<div align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Leandro265&theme=tokyo-night&hide_border=true&area=true" 
+    height="250"
+  />
 </div>
 
 ###
