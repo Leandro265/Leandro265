@@ -52,20 +52,5 @@ sempre buscando evoluir como desenvolvedor front-end e designer digital.
 <h2 align="center">🛠️ Tecnologias que utilizo</h2>
 
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-</p>
-
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,git" />
-</div>
-
----
-
-<p align="center">
-✨ Em constante evolução na área de tecnologia
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git" />
 </p>
