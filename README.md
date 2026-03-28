@@ -1,49 +1,46 @@
-<h1 align="center">👋 Olá, eu sou o Leandro (Leandro265)</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Leandro265&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Front-end%20Developer%2C%20%20UX%20Designer&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
-💻 Cursando Sistemas de Informação <br>
-📊 Estudando Sistema SAP <br>
-🐶 Amante dos animais <br>
-🎨 Design digital <br>
-🌐 Desenvolvedor Front-End
+  <a href="https://komarev.com/ghpvc/?username=Leandro265">
+    <img src="https://komarev.com/ghpvc/?username=Leandro265&label=Profile%20views&color=00FFFF&style=flat-square" alt="Leandro265's profile views" />
+  </a>
 </p>
 
-<hr>
+## 📌 About Me
+- 👨‍💻Estudante de Sistemas de Informação
+- 📒Cursando sistema SAP
+- 💻Programador front-end
+- 🎨Design digital
 
-<h2 align="center">🌐 Minhas Redes Sociais</h2>
+
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/Leandro265">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Leandro265&cache_seconds=7200&layout=compact&theme=merko&border_radius=10" alt="Leandro265's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=Leandro265&theme=merko&hide_border=true&cache_seconds=86400" alt="Leandro265's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Leandro265&theme=merko&radius=10" alt="Leandro265's Activity Graph" />
+</p>
+
+
+## 🛠️ Languages & Tools
+
+> ## Programming Languages
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Frontend
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Tools
+<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /></p>
 
 <p align="center">
-<a href="https://www.linkedin.com/feed/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://www.facebook.com/leandro.paulino.ramos" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
-</a>
-
-<a href="https://www.instagram.com/leandropaulinoramos/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-
-<a href="https://discord.com/channels/@me" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-</a>
+  <a href="https://github.com/Leandro265">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Leandro265&langs_count=8&layout=compact&theme=merko&border_radius=10" alt="Top Languages" />
+  </a>
 </p>
 
-<hr>
-
-<h2 align="center">🚀 Tecnologias que utilizo</h2>
-
-<p align="center">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-</p>
-
-<hr>
-
-<p align="center">
-✨ Sempre aprendendo e evoluindo no mundo da tecnologia!
-</p>
+## 🔗 Connect with Me
+<p align="center"><a href="https://www.linkedin.com/feed/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:leandropaulinoramos@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
